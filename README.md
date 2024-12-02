@@ -41,6 +41,8 @@ nothumb.sh — lists items in a collection that lack a thumbnail image.
 
 nofiles.sh — lists items in a collection that lack any files at all (except xml files).
 
+translate-description.py - translate an Internet Archive item description to English, put the translation in the item's Notes field.
+
 See also [The Internet Archive Research Assistant](https://github.com/savetz/tiara) and [InternetArchive-xtree](https://github.com/savetz/InternetArchive-xtree)
 
 You should [donate to Internet Archive](https://archive.org/donate).
